@@ -1,0 +1,15 @@
+/Users/faviofigueroa/Projects/proyecto2/proyecto2/bin/Debug/net6.0/proyecto2
+/Users/faviofigueroa/Projects/proyecto2/proyecto2/bin/Debug/net6.0/proyecto2.deps.json
+/Users/faviofigueroa/Projects/proyecto2/proyecto2/bin/Debug/net6.0/proyecto2.runtimeconfig.json
+/Users/faviofigueroa/Projects/proyecto2/proyecto2/bin/Debug/net6.0/proyecto2.dll
+/Users/faviofigueroa/Projects/proyecto2/proyecto2/bin/Debug/net6.0/proyecto2.pdb
+/Users/faviofigueroa/Projects/proyecto2/proyecto2/obj/Debug/net6.0/proyecto2.csproj.AssemblyReference.cache
+/Users/faviofigueroa/Projects/proyecto2/proyecto2/obj/Debug/net6.0/proyecto2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/faviofigueroa/Projects/proyecto2/proyecto2/obj/Debug/net6.0/proyecto2.AssemblyInfoInputs.cache
+/Users/faviofigueroa/Projects/proyecto2/proyecto2/obj/Debug/net6.0/proyecto2.AssemblyInfo.cs
+/Users/faviofigueroa/Projects/proyecto2/proyecto2/obj/Debug/net6.0/proyecto2.csproj.CoreCompileInputs.cache
+/Users/faviofigueroa/Projects/proyecto2/proyecto2/obj/Debug/net6.0/proyecto2.dll
+/Users/faviofigueroa/Projects/proyecto2/proyecto2/obj/Debug/net6.0/refint/proyecto2.dll
+/Users/faviofigueroa/Projects/proyecto2/proyecto2/obj/Debug/net6.0/proyecto2.pdb
+/Users/faviofigueroa/Projects/proyecto2/proyecto2/obj/Debug/net6.0/proyecto2.genruntimeconfig.cache
+/Users/faviofigueroa/Projects/proyecto2/proyecto2/obj/Debug/net6.0/ref/proyecto2.dll
